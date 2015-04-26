@@ -1,0 +1,22 @@
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\databases.exe.config
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\databases.exe
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\databases.pdb
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\EntityFramework.dll
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\EntityFramework.xml
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\obj\Debug\databases.csprojResolveAssemblyReference.cache
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\obj\Debug\databases.exe
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\obj\Debug\databases.pdb
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+c:\users\yuval\documents\visual studio 2012\Projects\databases\databases\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\Users\yuval\Documents\Visual Studio 2012\Projects\databases\databases\obj\Debug\databases.Migrations.aa.resources
+C:\Users\yuval\Documents\Visual Studio 2012\Projects\databases\databases\obj\Debug\databases.csproj.GenerateResource.Cache
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\git\databases\bin\Debug\databases.exe.config
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\git\databases\obj\Debug\databases.exe
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\git\databases\obj\Debug\databases.pdb
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\databases\databases\bin\Debug\databases.exe.config
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\databases\databases\obj\Debug\databases.exe
+C:\Users\Eshel\Desktop\קורסים\שנה ג\סמסטר ב\ניתוח ועיצוב מונחה עצמים\עבודה 1\databases\databases\obj\Debug\databases.pdb
